@@ -7,5 +7,5 @@ fun fact : and all of this is coded in my phone (;
 - [x] Stack
 
 
-- thanks to see :+1
+- thanks to see :+1:
 
