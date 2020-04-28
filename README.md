@@ -5,7 +5,7 @@ this is my hubby for when i have time and nothing to do i try update this repo e
 fun fact : and all of this is coded in my phone (;
 ### Algorithms Completed
 - [x] Stack
-
+- [x] LinkedList
 
 - thanks to see :+1:
 
