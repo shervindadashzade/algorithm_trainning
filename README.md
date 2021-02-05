@@ -7,6 +7,6 @@ fun fact : and all of this is coded in my phone (;
 - [x] Stack
 - [x] LinkedList
 - [x] Strassen`s Matrix Multiplication
-
+- [x] Scheduling Deadlines with Profit
 - thanks to see :+1:
 
