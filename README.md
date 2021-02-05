@@ -6,6 +6,7 @@ fun fact : and all of this is coded in my phone (;
 ### Algorithms Completed
 - [x] Stack
 - [x] LinkedList
+- [x] Strassen`s Matrix Multiplication
 
 - thanks to see :+1:
 
